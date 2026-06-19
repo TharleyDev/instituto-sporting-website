@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./logo.webp"/>
+<img src="./favicon.ico"/>
 
 </div>
 
