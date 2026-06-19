@@ -95,7 +95,7 @@ Durante o desenvolvimento participei de:
 
 ### Página de Atletas
 
-<img src="./atletas.png"/>
+<img src="./atletas1.png"/>
 
 ---
 
@@ -140,13 +140,18 @@ Agradeço ao Instituto Sporting pela confiança no desenvolvimento do projeto e 
 
 ## 👨‍💻 Desenvolvido por
 
-**Thárley Araújo Silva**
+**Thárley Araújo Silva e** 
+**Thiago Araújo Silva**
 
 LinkedIn:
-www.linkedin.com/in/thárley-silva
+www.linkedin.com/in/thárleyaraújo
+LinkedIn:
+www.linkedin.com/in/Thiago-Silvati
 
 GitHub:
-https://github.com/SEU-USUARIO
+https://github.com/TharleyDev
+GitHub:
+https://github.com/Thigas-Dev
 
 ---
 
