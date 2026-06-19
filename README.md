@@ -37,21 +37,18 @@ Além do desenvolvimento visual, o projeto foi pensado para oferecer uma navega�
 - ✅ Atualização dinâmica de conteúdo
 - ✅ Layout adaptado para dispositivos móveis
 - ✅ Navegação otimizada
-- ✅ Estrutura preparada para SEO
 
 ---
 
 ## 💻 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- MySQL
-- Bootstrap
-- Git
-- GitHub
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TharleyDev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thigas-Dev)
 ---
 
 ## 📱 Responsividade
@@ -85,7 +82,6 @@ Durante o desenvolvimento participei de:
 - Integração das funcionalidades
 - Organização do projeto
 - Testes
-- Publicação do site
 
 ---
 
