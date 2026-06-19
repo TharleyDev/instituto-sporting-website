@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./android-chrome-512x512.webp"/>
+<img src="./android-chrome-192x192.webp"/>
 
 </div>
 
