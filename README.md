@@ -1,8 +1,11 @@
 # 🏆 Instituto Sporting - Website Oficial
 
-<p align="center">
-  <img src="https://institutosporting.com.br/assets/img/logo.png" alt="Instituto Sporting" width="180">
-</p>
+<div align="center">
+
+<img src="./logo1.webp"/>
+
+</div>
+
 
 <p align="center">
   <strong>Website institucional desenvolvido para o Instituto Sporting.</strong>
