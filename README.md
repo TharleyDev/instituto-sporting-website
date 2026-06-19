@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./logo1.webp"/>
+<img src="./logo.webp"/>
 
 </div>
 
