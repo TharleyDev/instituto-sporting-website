@@ -89,13 +89,13 @@ Durante o desenvolvimento participei de:
 
 ### Página Inicial
 
-> *(Adicione aqui uma captura de tela da Home.)*
+<img src="./projeto.png"/>
 
 ---
 
 ### Página de Atletas
 
-> *(Adicione aqui uma captura de tela da página dos atletas.)*
+<img src="./atletas.png"/>
 
 ---
 
