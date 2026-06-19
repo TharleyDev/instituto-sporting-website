@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./favicon.ico"/>
+<img src="./android-chrome-512x512.webp"/>
 
 </div>
 
